@@ -1,0 +1,21 @@
+.\obj\buzzer.o: user\buzzer.c
+.\obj\buzzer.o: user\buzzer.h
+.\obj\buzzer.o: user\sys.h
+.\obj\buzzer.o: .\user\stm32f10x.h
+.\obj\buzzer.o: .\user\core_cm3.h
+.\obj\buzzer.o: D:\Program Files(x86)\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\buzzer.o: .\user\system_stm32f10x.h
+.\obj\buzzer.o: .\user\stm32f10x_conf.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_adc.h
+.\obj\buzzer.o: .\user\stm32f10x.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_exti.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_i2c.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_rtc.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_tim.h
+.\obj\buzzer.o: .\FWlib\inc\stm32f10x_usart.h
+.\obj\buzzer.o: .\FWlib\inc\misc.h
+.\obj\buzzer.o: user\led.h

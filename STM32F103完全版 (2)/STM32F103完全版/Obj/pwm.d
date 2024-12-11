@@ -1,0 +1,21 @@
+.\obj\pwm.o: user\pwm.c
+.\obj\pwm.o: user\pwm.h
+.\obj\pwm.o: user\sys.h
+.\obj\pwm.o: .\user\stm32f10x.h
+.\obj\pwm.o: .\user\core_cm3.h
+.\obj\pwm.o: D:\Program Files(x86)\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\pwm.o: .\user\system_stm32f10x.h
+.\obj\pwm.o: .\user\stm32f10x_conf.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_adc.h
+.\obj\pwm.o: .\user\stm32f10x.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_exti.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_i2c.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_rtc.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_tim.h
+.\obj\pwm.o: .\FWlib\inc\stm32f10x_usart.h
+.\obj\pwm.o: .\FWlib\inc\misc.h
+.\obj\pwm.o: user\led.h
