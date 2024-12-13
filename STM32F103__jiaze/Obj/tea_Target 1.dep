@@ -19,7 +19,7 @@ I (.\FWlib\inc\stm32f10x_rtc.h)(0x5462DF0E)
 I (.\FWlib\inc\stm32f10x_tim.h)(0x5462DF10)
 I (.\FWlib\inc\stm32f10x_usart.h)(0x5462DF10)
 I (.\FWlib\inc\misc.h)(0x5462DF0C)
-F (.\user\main.c)(0x675BA013)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\FWlib\inc -I .\user --C99-I.\RTE\_Target_1-ID:\keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+F (.\user\main.c)(0x675BA263)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\FWlib\inc -I .\user --C99-I.\RTE\_Target_1-ID:\keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
 I (user\stm32f10x.h)(0x5462DF30)
 I (user\core_cm3.h)(0x67517A08)
 I (D:\keil\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
@@ -37,13 +37,10 @@ I (.\FWlib\inc\stm32f10x_rtc.h)(0x5462DF0E)
 I (.\FWlib\inc\stm32f10x_tim.h)(0x5462DF10)
 I (.\FWlib\inc\stm32f10x_usart.h)(0x5462DF10)
 I (.\FWlib\inc\misc.h)(0x5462DF0C)
+I (user\sys.h)(0x62B953A4)
 I (user\delay.h)(0x6124839A)
 I (D:\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
-I (user\relay.h)(0x6755268A)
-I (user\ad_get.h)(0x675274E8)
-I (user\sys.h)(0x62B953A4)
 I (user\tm1638.h)(0x675B9FB6)
-I (user\show.h)(0x675904EB)
 F (.\user\delay.c)(0x6124839A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\FWlib\inc -I .\user --C99-I.\RTE\_Target_1-ID:\keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\obj\delay.o --omf_browse .\obj\delay.crf --depend .\obj\delay.d)
 I (user\stm32f10x.h)(0x5462DF30)
 I (user\core_cm3.h)(0x67517A08)
